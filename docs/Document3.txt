@@ -1,0 +1,1 @@
+In machine learning, backpropagation is a gradient estimation method commonly used for training a neural network to compute its parameter updates.
